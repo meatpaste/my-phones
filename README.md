@@ -6,6 +6,7 @@ A list of all the mobile phones I've owned
 
 
 Nokia Ringo
+http://www.mobilephonehistory.co.uk/nokia/nokia_ringo.php
 
 Panasonic GD70
 http://www.gsmarena.com/panasonic_gd70-123.php
@@ -37,7 +38,7 @@ http://www.gsmarena.com/o2_xda_iii-999.php
 Nokia 8250
 http://www.gsmarena.com/nokia_8250-217.php
 
-Sony Ericcson m600
+Sony Ericsson m600
 http://www.gsmarena.com/sony_ericsson_m600-1425.php
 
 HTC Tytn
