@@ -26,7 +26,7 @@ http://www.gsmarena.com/sony_ericsson_t630-559.php
 Sony Ericsson t610
 http://www.gsmarena.com/sony_ericsson_t610-405.php
 
-Sony Ericsson 568i
+Sony Ericsson t68i
 http://www.gsmarena.com/sony_ericsson_t68i-325.php
 
 Sony Ericsson w800
@@ -59,7 +59,7 @@ http://www.gsmarena.com/htc_desire-3077.php
 Nokia 101 (for holiday!)
 http://www.gsmarena.com/nokia_101-4121.php 
 
-Sony Experia S
+Sony Xperia S
 http://www.gsmarena.com/sony_xperia_s-4369.php
 
 Google (LG) Nexus 5 
