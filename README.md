@@ -64,3 +64,6 @@ http://www.gsmarena.com/sony_xperia_s-4369.php
 
 Google (LG) Nexus 5 
 http://www.gsmarena.com/lg_nexus_5-5705.php 
+
+Apple iPhone 5s
+http://www.gsmarena.com/apple_iphone_5s-5685.php
