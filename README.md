@@ -67,3 +67,7 @@ http://www.gsmarena.com/lg_nexus_5-5705.php
 
 Apple iPhone 5s
 http://www.gsmarena.com/apple_iphone_5s-5685.php
+
+Apple iPhone SE
+http://www.gsmarena.com/apple_iphone_se-7969.php
+
