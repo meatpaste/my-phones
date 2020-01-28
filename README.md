@@ -71,3 +71,8 @@ http://www.gsmarena.com/apple_iphone_5s-5685.php
 Apple iPhone SE
 http://www.gsmarena.com/apple_iphone_se-7969.php
 
+Apple iPhone 7
+https://www.gsmarena.com/apple_iphone_7-8064.php
+
+Apple iPhone 8
+https://www.gsmarena.com/apple_iphone_8-8573.php
