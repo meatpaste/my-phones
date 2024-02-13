@@ -56,10 +56,10 @@ http://www.gsmarena.com/motorola_dext_mb220-2934.php
 HTC Desire
 http://www.gsmarena.com/htc_desire-3077.php
 
-Nokia 101 (for holiday!)
+Nokia 101 (for holiday)
 http://www.gsmarena.com/nokia_101-4121.php 
 
-Sony Xperia S
+Sony Xperia S (droid testing)
 http://www.gsmarena.com/sony_xperia_s-4369.php
 
 Google (LG) Nexus 5 
@@ -76,3 +76,9 @@ https://www.gsmarena.com/apple_iphone_7-8064.php
 
 Apple iPhone 8
 https://www.gsmarena.com/apple_iphone_8-8573.php
+
+Apple iPhone 14
+https://www.gsmarena.com/apple_iphone_14-11861.php
+
+Huawei P20 Pro (droid testing)
+https://www.gsmarena.com/huawei_p20_pro-9106.php
